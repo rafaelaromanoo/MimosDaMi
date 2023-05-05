@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#itensNavbar {
+    font-family: 'Montserrat', sans-serif;
+    color: #535353;
+}
+
+.botaoPrincipal {
+    background-color: #D6FAFF;
+    border: 1px solid #D6FAFF;
+    border-radius: 8px !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+#containerSobreMim {
+    margin-top: 0;
+    background-color: #D6FAFF;
+}
+
+#heroSection, #conteudoSobreMim {
+    background-color: #D6FAFF;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #535353;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+#sobreMim {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#imagemHeroSection {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: flex;
+}
+
+.container {
+    margin-top: 0;
+    display: flex;
+    background-color: #D6FAFF;
+}
+
+#containerGaleria{
+    border: #D6FAFF;
+}
+
+.nomeItem {
+    background-color: #f5f3f3;
+    font-family: 'Montserrat-bold', sans-serif;
+    color: #535353;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.btn-group {
+    width: 133px;
+    height: 30px;
+    margin-left: 29%;
+    align-items: center;
+    background-color: #D6FAFF;
+    border: 1px solid #D6FAFF;
+    border-radius: 8px !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+#footer{
+    margin-top: 0 !important;
+    background-color: #FCCDE0;
+    font-family: 'Montserrat', sans-serif;
+    color: #535353;
+    
+}
+
+.titulo {
+    margin-left: 3%;
+    font-size: 24px;
+}
+
+.subtitulo {
+    margin-left: 3%;
+    font-size: 16px;
+}
